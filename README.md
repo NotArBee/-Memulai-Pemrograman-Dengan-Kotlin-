@@ -1,9 +1,5 @@
-# Proyek Submission MPK 
+# Proyek Akhir "Memulai Pemrograman Dengan Kotlin" Dicoding
 
-**Aturan mengerjakan submission**<br>
-Agar tugas submission dapat diperiksa dan diterima dengan baik, sebaiknya hindari beberapa hal berikut:
-
-- Mengubah kode yang berada di dalam fungsi main()
-- Mengubah (kecuali untuk mengerjakan TODO) atau menghapus kode yang sudah ada
-- Membuat fungsi baru yang bukan merupakan tugas latihan
-- Mengubah struktur project (menghapus, mengubah, atau memindahkan package)
+This program is the final project of "Getting Started Programming With Kotlin" Dicoding. 
+This program is a requirement for completing the "Getting Started Programming With Kotlin" course in Dicoding. 
+In this program there are answer of optional questions.
